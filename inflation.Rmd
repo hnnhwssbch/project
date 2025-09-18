@@ -55,9 +55,3 @@ inflation %>%
   theme_minimal()
   NULL
 ```
-
-
-```{python}
-print("this is python")
-```
-
